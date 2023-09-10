@@ -1,0 +1,6 @@
+com\shop\lunarlibrary\JADCA2\lunarws\controller\BookController.class
+com\shop\lunarlibrary\JADCA2\lunarws\dbaccess\BookDAO.class
+com\shop\lunarlibrary\JADCA2\lunarws\dbaccess\DBConnection.class
+com\shop\lunarlibrary\JADCA2\lunarws\ServletInitializer.class
+com\shop\lunarlibrary\JADCA2\lunarws\dbaccess\Book.class
+com\shop\lunarlibrary\JADCA2\lunarws\LunarWsApplication.class
